@@ -15,9 +15,9 @@ $(window).ready(function() {
 	'use strict';
 	$.vegas('slideshow', {
 	  backgrounds:[
-		{ src:'../assets/images/bg-slider/bg-1.jpg', fade:1000 },
-		{ src:'../assets/images/bg-slider/bg-2.jpg', fade:1000 },
-		{ src:'../assets/images/bg-slider/bg-3.jpg', fade:1000 }
+		{ src:'../website/assets/images/bg-slider/bg-1.jpg', fade:1000 },
+		{ src:'../website/assets/images/bg-slider/bg-2.jpg', fade:1000 },
+		{ src:'../website/assets/images/bg-slider/bg-3.jpg', fade:1000 }
 	  ]
 	})();
 });
