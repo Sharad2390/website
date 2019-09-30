@@ -15,9 +15,12 @@ $(window).ready(function() {
 	'use strict';
 	$.vegas('slideshow', {
 	  backgrounds:[
-		{ src:'assets/images/bg-slider/bg-1.jpg', fade:1000 },
-		{ src:'assets/images/bg-slider/bg-2.jpg', fade:1000 },
-		{ src:'assets/images/bg-slider/bg-3.jpg', fade:1000 }
+		{ src:'assets/images/bg-slider/christopher.jpg', fade:1000 },
+		{ src:'assets/images/bg-slider/fotis-fotopoulos.jpg', fade:1000 },
+		{ src:'assets/images/bg-slider/hack-capital.jpg', fade:1000 },
+		{ src:'assets/images/bg-slider/kaleidico.jpg', fade:1000},
+		{ src:'assets/images/bg-slider/luca-bravo.jpg', fade:1000},
+		{ src:'assets/images/bg-slider/marvin-meyer.jpg', fade:1000 }
 	  ]
 	})();
 });
